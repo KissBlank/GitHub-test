@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Develop\\Project\\Repository\\Github-test\\test\\",
+  "WorkspaceRootPath": "D:\\Develop\\Project\\Repository\\Github-test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01C561B4-A03D-4937-8D96-900B07D6C406}|test\\test.vcxproj|D:\\Develop\\Project\\Repository\\Github-test\\test\\test\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{01C561B4-A03D-4937-8D96-900B07D6C406}|test\\test.vcxproj|D:\\Develop\\Project\\Repository\\Github-test\\test\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{01C561B4-A03D-4937-8D96-900B07D6C406}|test\\test.vcxproj|solutionrelative:test\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "test.c",
-              "DocumentMoniker": "D:\\Develop\\Project\\Repository\\Github-test\\test\\test\\test.c",
+              "DocumentMoniker": "D:\\Develop\\Project\\Repository\\Github-test\\test\\test.c",
               "RelativeDocumentMoniker": "test\\test.c",
-              "ToolTip": "D:\\Develop\\Project\\Repository\\Github-test\\test\\test\\test.c",
+              "ToolTip": "D:\\Develop\\Project\\Repository\\Github-test\\test\\test.c",
               "RelativeToolTip": "test\\test.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
